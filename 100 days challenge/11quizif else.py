@@ -5,6 +5,8 @@ b = int(time.strftime("%H"))
 c = int(time.strftime("%M"))
 d = int(time.strftime("%S"))
 
+print(b,c,d)
+
 if(b>=6 and b<12):
     print("Good Morning")
     

@@ -25,5 +25,5 @@
 
 # skipping 2 numbers
 
-for i in range(1,10,2):
+for i in range(1,10,3):
     print(i)
