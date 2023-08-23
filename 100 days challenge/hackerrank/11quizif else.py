@@ -1,11 +1,10 @@
 import time
 
 
-b = int(time.strftime("%H"))
-c = int(time.strftime("%M"))
-d = int(time.strftime("%S"))
+b = int(time.strftime(input("Enter your Hours Time:\n")))
 
-print(b,c,d)
+
+print(b)
 
 if(b>=6 and b<12):
     print("Good Morning")
