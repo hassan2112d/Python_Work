@@ -10,3 +10,4 @@ print(12*9+2*3)
 
 a =2
 print(a)
+print(12**2)
