@@ -1,0 +1,8 @@
+
+
+() is it Tuple
+
+
+{} represents sets
+
+[]  represents the list items 
