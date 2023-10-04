@@ -6,3 +6,9 @@
 {} represents sets
 
 []  represents the list items 
+
+#Finally is used to executed where the error occured or not but it will be the question that normal print also print this
+#but when this comes to functions or databasse and file breakdown normal prints not worked but finally statement works.
+
+finally :
+print("I will executed always")
