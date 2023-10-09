@@ -7,7 +7,8 @@ for b in a:
         print("Hello!")
 
 #In emurate you did  not have to identified the index in it  
-for index,c in enumerate(a):
-    print(c)
-    if(index == 75):
-        print("Welcome!")
+#By default it takes the start= 0 but you can put like i did
+#for index,c in enumerate(a):
+for index,c in enumerate(a,start=1):
+   
+     print(f"index : {index} ,fruits : {c}")
